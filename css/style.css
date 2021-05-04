@@ -1,0 +1,25 @@
+body
+	{
+		background-color: lightpink;
+	}
+
+a:link, a:visited
+	{
+		background-color: purple;
+		color:white;
+		text-decoration: none;
+		padding: 10px;
+		text-align: center;
+		display: inline-block;
+		font-family: verdana;
+	}
+
+
+a:hover, a:active
+	{
+		color:blue;
+		background-color: lightblue;
+		text-decoration: underline;
+
+	}
+
